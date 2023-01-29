@@ -13,7 +13,7 @@ export const CoffeeList = styled.div`
   column-gap: 2rem;
   row-gap: 2.5rem;
   margin-top: 3.5rem;
-  {
+  @media (max-width: 1000px) {
     grid-template-columns: repeat(2, 1fr);
     padding:2rem;
   }
