@@ -2,22 +2,21 @@
 Starbucks - Compre seu coffee online
 
 <h3 align="center">
-ReactJS, Styled Components, Rotas, Typescript, Libs, Carrinho de compra,
+ReactJS, Styled Components, Rotas, Typescript, Libs, Carrinho de compra
 
-### Projeto Design HOME ⬇️
+### Projeto Design HOME ☕️
 
-![image](https://raw.githubusercontent.com/techjuliana/Ecommerce-Coffee-Delivery/main/design/home.png)
+![image](https://raw.githubusercontent.com/techjuliana/Starbucks/main/design/1.png)
+![image](https://raw.githubusercontent.com/techjuliana/Starbucks/main/design/2.png)
+![image](https://raw.githubusercontent.com/techjuliana/Starbucks/main/design/3.png)
 
-### Projeto Design PAGAMENTO E ENTREGA ⬇️
+### Projeto Design PAGAMENTO E ENTREGA 🚙
+![image](https://raw.githubusercontent.com/techjuliana/Starbucks/main/design/4.png)
 
-![image](https://raw.githubusercontent.com/techjuliana/Ecommerce-Coffee-Delivery/main/design/pagamento.png)
+### Projeto Design PEDIDO CONFIRMADO ✅
+![image](https://raw.githubusercontent.com/techjuliana/Starbucks/main/design/5.png)
 
-### Projeto Design PEDIDO CONFIRMADO ⬇️
 
-![image](https://raw.githubusercontent.com/techjuliana/Ecommerce-Coffee-Delivery/main/design/pedido.png)
-
-<a href="https://www.figma.com/file/8ZhTx13C9z45yhgPFijU5z/Coffee-Delivery-(Copy)?node-id=217%3A511&t=Q20Qvg2k3Iyc1w4l-0">
- <sub><b>FIGMA</b></sub></a>
 
 ### `npm start`
 
