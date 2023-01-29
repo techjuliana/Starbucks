@@ -8,7 +8,7 @@ export const CompleteOrderFormContainer = styled.div`
   width: 40rem;
   @media (max-width: 1000px) {
     width: 100%;
-    padding:2rem;
+    padding:0.5rem;
   }
 `;
 
@@ -50,6 +50,10 @@ export const PaymentMethodOptionsContainer = styled.div`
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 0.75rem;
+  @media (max-width: 600px) {
+    display:flex;
+    flex-direction: column;
+  }
 
   > p {
     grid-column: span 3;

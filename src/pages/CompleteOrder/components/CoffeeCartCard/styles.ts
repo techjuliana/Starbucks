@@ -5,7 +5,6 @@ export const CoffeeCartCardContainer = styled.div`
   display: flex;
   align-items: center;
   justify-content: space-between;
-
   border-bottom: 1px solid ${({ theme }) => theme.colors["base-button"]};
   padding-bottom: 1.5rem;
   margin-bottom: 1.5rem;
