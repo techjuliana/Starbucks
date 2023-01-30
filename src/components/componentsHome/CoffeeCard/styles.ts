@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { RegularText, TitleText } from "../../../../components/Typography";
+import { RegularText, TitleText } from "./../../Typography";
 
 export const CoffeeCardContainer = styled.div`
   width: 100%;

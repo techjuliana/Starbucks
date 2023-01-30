@@ -1,14 +1,11 @@
 import {
-  BenefitsContainer,
   IntroContainer,
   IntroContent,
   IntroTitle,
 } from "./styles";
-import { useTheme } from "styled-components";
-import { RegularText } from "../../../../components/Typography";
+import { RegularText } from "./../../Typography";
 
 export function Intro() {
-  const { colors } = useTheme();
 
   return (
     <IntroContainer>

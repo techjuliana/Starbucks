@@ -1,5 +1,5 @@
-import { TitleText } from "../../../../components/Typography";
-import { coffees } from "../../../../data/coffees";
+import { TitleText } from "./../../Typography";
+import { coffees } from "../../../data/coffees";
 import { CoffeeCard } from "../CoffeeCard";
 import { CoffeeList, OurCoffeesContainer } from "./styles";
 

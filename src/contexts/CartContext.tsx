@@ -1,5 +1,5 @@
 import { createContext, ReactNode, useEffect, useState } from "react";
-import { Coffee } from "../pages/Home/components/CoffeeCard";
+import { Coffee } from "../components/componentsHome/CoffeeCard";
 import { produce } from "immer";
 
 export interface CartItem extends Coffee {

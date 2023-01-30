@@ -1,5 +1,6 @@
-import { QuantityInput } from "../../../../components/QuantityInput";
-import { RegularText, TitleText } from "../../../../components/Typography";
+/* eslint-disable jsx-a11y/alt-text */
+import { QuantityInput } from "./../../QuantityInput";
+import { RegularText, TitleText } from "./../../Typography";
 import {
   CoffeeCardContainer,
   Tags,
@@ -10,8 +11,8 @@ import {
 } from "./styles";
 import { ShoppingCart } from "phosphor-react";
 import { useState } from "react";
-import { useCart } from "../../../../hooks/useCart";
-import { formatMoney } from "../../../../utils/formatMoney";
+import { useCart } from "./../../../hooks/useCart";
+import { formatMoney } from "../../../utils/formatMoney";
 
 export interface Coffee {
   id: number;
@@ -51,6 +52,7 @@ export function CoffeeCard({ coffee }: CoffeeProps) {
 
   return (
     <CoffeeCardContainer>
+  
       <img src={`/coffees/${coffee.photo}`} />
       <Tags>
         {coffee.tags.map((tag) => (

@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import { RegularText, TitleText } from "../../components/Typography";
 import { OrderConfirmedContainer, OrderDetailsContainer } from "./styles";
 import confirmedOrderIllustration from "../../assets/entr.png";
