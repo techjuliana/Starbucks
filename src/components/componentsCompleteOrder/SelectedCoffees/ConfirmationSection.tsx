@@ -1,8 +1,8 @@
 import { ConfirmationSectionContainer } from "./styles";
-import { RegularText } from "../../../../components/Typography";
-import { Button } from "../../../../components/Button";
-import { useCart } from "../../../../hooks/useCart";
-import { formatMoney } from "../../../../utils/formatMoney";
+import { RegularText } from "./../../Typography";
+import { Button } from "../../Button";
+import { useCart } from "../../../hooks/useCart";
+import { formatMoney } from "../../../utils/formatMoney";
 
 const DELIVERY_PRICE = 3.5;
 

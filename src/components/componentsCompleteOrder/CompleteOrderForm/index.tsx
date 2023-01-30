@@ -1,4 +1,4 @@
-import { TitleText } from "../../../../components/Typography";
+import { TitleText } from "./../../Typography";
 import { SectionTitle } from "../SectionTitle";
 import { CompleteOrderFormContainer, FormSectionContainer } from "./styles";
 import { MapPinLine, CurrencyDollar } from "phosphor-react";

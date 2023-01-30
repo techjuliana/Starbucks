@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { SectionBaseStyle } from "../../styles";
+import { SectionBaseStyle } from "../../../pages/CompleteOrder/styles";
 
 export const CompleteOrderFormContainer = styled.div`
   display: flex;

@@ -2,7 +2,7 @@ import { PaymentMethodOptionsContainer } from "./styles";
 import { CreditCard, Money, Bank } from "phosphor-react";
 import { PaymentMethodInput } from "../PaymentMethodInput";
 import { useFormContext } from "react-hook-form";
-import { RegularText } from "../../../../components/Typography";
+import { RegularText } from "./../../Typography";
 
 export const paymentMethods = {
   credit: {

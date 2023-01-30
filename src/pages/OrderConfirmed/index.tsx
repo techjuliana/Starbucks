@@ -7,7 +7,7 @@ import { useTheme } from "styled-components";
 import { MapPin, Clock, CurrencyDollar } from "phosphor-react";
 import { NavLink, useLocation, useNavigate } from "react-router-dom";
 import { OrderData } from "../CompleteOrder";
-import { paymentMethods } from "../CompleteOrder/components/CompleteOrderForm/PaymentMethodOptions";
+import { paymentMethods } from "../../components/componentsCompleteOrder/CompleteOrderForm/PaymentMethodOptions";
 import { useEffect } from "react";
 import { Button } from "../../components/Button";
 

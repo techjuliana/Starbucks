@@ -1,5 +1,5 @@
-import { CompleteOrderForm } from "./components/CompleteOrderForm";
-import { SelectedCoffees } from "./components/SelectedCoffees";
+import { CompleteOrderForm } from "./../../components/componentsCompleteOrder/CompleteOrderForm";
+import { SelectedCoffees } from "./../../components/componentsCompleteOrder/SelectedCoffees";
 import { CompleteOrderContainer } from "./styles";
 import { useForm, FormProvider } from "react-hook-form";
 import * as zod from "zod";
