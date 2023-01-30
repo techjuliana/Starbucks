@@ -20,6 +20,20 @@ ReactJS, Styled Components, Rotas, Typescript, Libs, Carrinho de compra
 
 ### `npm start`
 
+Libs instaladas
+- https://zod.dev/
+- https://react-hook-form.com/get-started/
+- https://www.npmjs.com/package/polished
+- https://www.npmjs.com/package/@hookform/resolvers
+- https://www.npmjs.com/package/immer
+
+Testes
+npm run test
+- https://jestjs.io/pt-BR/docs/getting-started
+- https://testing-library.com/docs/react-testing-library/intro/
+
+
+
 ## Tech Juliana
 
 <a href="https://www.linkedin.com/in/techjuliana">
